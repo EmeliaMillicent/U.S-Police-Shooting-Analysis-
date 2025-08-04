@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This repository contains the analysis of police shooting incidents across the United States from January to July 2015. The project aims to provide a data-driven overview of these incidents, highlighting key demographic trends, circumstances, and contributing factors, to foster informed discussions on law enforcement practices and public safety.
+This repository contains the analysis of police shooting incidents across the United States from 2015 t0 2020. The project aims to provide a data-driven overview of these incidents, highlighting key demographic trends, circumstances, and contributing factors, to foster informed discussions on law enforcement practices and public safety.
 
 ## Data Source
 
-The analysis is based on a comprehensive dataset of 654 police shooting incidents that occurred between January and July 2015. The data includes various attributes such as:
+The analysis is based on a comprehensive dataset of over 4000 police shooting incidents that occurred between 2015 to 2020. The data includes various attributes such as:
 
 * Victim demographics (gender, race/ethnicity, age)
 * Weapon involvement
@@ -58,4 +58,4 @@ This repository serves as a documentation of the analysis. You can:
 
 ---
 
-**Disclaimer:** This analysis is based on the provided dataset from January to July 2015 and aims to provide insights into patterns during that specific period. It does not represent a complete historical trend or encompass all factors related to police shooting incidents.
+**Disclaimer:** This analysis is based on the provided dataset from 2015 to 2020 and aims to provide insights into patterns during that specific period. It does not represent a complete historical trend or encompass all factors related to police shooting incidents.
